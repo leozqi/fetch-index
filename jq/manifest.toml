@@ -6,9 +6,9 @@ version = "1.7.1"
 target = "https://github.com/jqlang/jq.git"
 commit = "71c2ab509a8628dbbad4bc7b3f98a64aa90d3297"
 depends = [
-  "libtool"
-  "make"
-  "automake"
+  "libtool",
+  "make",
+  "automake",
   "autoconf"
   ]
 build = [
